@@ -10,6 +10,7 @@
 
 - Comptia Security Plus
 
+![image alt](https://github.com/AdewaleAlabiIT/Active-Directory/blob/89e645d344066ec7b2a518c123b2fc7c40fab70c/Screenshot_1.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
