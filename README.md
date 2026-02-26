@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Adewale <br/></a></h1>
 
-<!--
-**AdewaleAlabiIT/AdewaleAlabiIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Help Desk Projects:</h2>
+
+- Active Directory Home Lab
+- Group Policy
+- Servicenow Ticketting system
+ 
+<h2> Certification </h2>
+
+- Comptia Security Plus
 
 Here are some ideas to get you started:
 
