@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
-- Active Directory Home Lab
+- [Active Directory Home Lab](https://github.com/AdewaleAlabiIT/Active-Directory.git)
 - Group Policy
 - Servicenow Ticketting system
  
