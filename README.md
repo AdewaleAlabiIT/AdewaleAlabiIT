@@ -6,9 +6,12 @@
   
 - [Servicenow Ticketing system](https://github.com/AdewaleAlabiIT/Servicenow)
  
-<h2> Certification </h2>
+<h2> Certifications </h2> 
+
+[Certifications](https://github.com/AdewaleAlabiIT/Certifications)
 
 - Comptia Security Plus
+- IBM IT Support
 
 Here are some ideas to get you started:
 
